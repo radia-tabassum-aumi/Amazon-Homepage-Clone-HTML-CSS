@@ -1,0 +1,3 @@
+# Icons - Font Awesome - cdnjs.com => font awesome library - copy link and paste it in the head section
+# cdn - Content delivery network - connect nearest server for Content
+#
